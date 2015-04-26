@@ -1,4 +1,4 @@
-# aws_ec2_calculator
+# aws_ec2_price_calculator
 
 This program that takes AWS credentials as command line arguments and:
 
